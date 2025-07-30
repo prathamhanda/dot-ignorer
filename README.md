@@ -92,31 +92,25 @@ Adding a template is easy:
 
 ---
 
-## Contributors
+## 👨‍💻 Contributors
 
 Dot Ignorer has a vibrant community of happy users and delightful contributors. Without all the time and help from our contributors, it wouldn't be so awesome.
 
 Thank you so much!
-<div style="display: flex; aligin-items: center; justify-content: center;">
-<div style="display: flex; justify-content: start; gap: 10px;">
-    <a href="https://github.com/wazeerc" style="text-decoration: none;">
-        <img src="https://github.com/wazeerc.png" width="60" height="60" style="border-radius: 50%;" alt="wazeerc" title="@wazeerc" />
-        <br/>
-    </a>
-    <a href="https://github.com/prathamhanda" style="text-decoration: none;">
-        <img src="https://github.com/prathamhanda.png" width="60" height="60" style="border-radius: 50%;" alt="prathamhanda" title="@prathamhanda" />
-        <br/>
-    </a>
-    <a href="https://github.com/zahntheo" style="text-decoration: none;">
-        <img src="https://github.com/zahntheo.png" width="60" height="60" style="border-radius: 50%;" alt="zahntheo" title="@zahntheo" />
-        <br/>
-    </a>
-    <a href="#" style="text-decoration: none;">
-        <img src="https://miro.medium.com/v2/resize:fit:700/0*oRRpMJ9XqkRnYLhW.png" width="60" height="60" style="border-radius: 50%;" alt="Copilot" title="@copilot" />
-    </a>
-        <br/>
-    </a>
-</div>
-</div>
+
+<p align="center">
+  <a href="https://github.com/wazeerc">
+    <img src="https://github.com/wazeerc.png" width="60" height="60" style="border-radius: 50%;" alt="@wazeerc" />
+  </a>
+  <a href="https://github.com/prathamhanda">
+    <img src="https://github.com/prathamhanda.png" width="60" height="60" style="border-radius: 50%;" alt="@prathamhanda" />
+  </a>
+  <a href="https://github.com/zahntheo">
+    <img src="https://github.com/zahntheo.png" width="60" height="60" style="border-radius: 50%;" alt="@zahntheo" />
+  </a>
+  <a href="#">
+    <img src="https://miro.medium.com/v2/resize:fit:700/0*oRRpMJ9XqkRnYLhW.png" width="60" height="60" style="border-radius: 50%;" alt="@copilot" />
+  </a>
+</p>
 
 🙌 **Enjoy and keep your API keys safe!**
